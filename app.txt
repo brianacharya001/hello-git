@@ -1,4 +1,4 @@
-# app.txt - Startup Script for MySampleApp
+## app.txt - Startup Script for MySampleApp
 
 Application Name: MySampleApp
 Version: 1.0.0
