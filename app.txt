@@ -40,3 +40,5 @@ MIT License
 
 Contact:
 janedoe@example.com
+
+# new line added
